@@ -120,5 +120,3 @@ Aplikacja jest zaprojektowana z myślą o prostocie i funkcjonalności. Interfej
 - Cache danych API, aby zmniejszyć liczbę zapytań.
 - Lepsze zarządzanie błędami (np. retry w przypadku niepowodzenia API).
 - Dodanie opcji zmiany języka interfejsu.
-
-Jeśli masz dodatkowe pytania lub potrzebujesz rozszerzenia funkcjonalności, skontaktuj się z twórcą aplikacji.
