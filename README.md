@@ -80,13 +80,7 @@ Klasa główna aplikacji, dziedzicząca po `Application` z JavaFX.
 
 ### Uruchomienie aplikacji:
 1. Upewnij się, że masz zainstalowane JavaFX i dodaną zależność `org.json`.
-2. Skompiluj i uruchom plik `Main.java`.
-   - W przypadku IDE (np. IntelliJ IDEA): Kliknij "Run".
-   - Z wiersza poleceń:
-     ```bash
-     javac --module-path /path/to/javafx-sdk/lib --add-modules javafx.controls,javafx.web Main.java
-     java --module-path /path/to/javafx-sdk/lib --add-modules javafx.controls,javafx.web Main
-     ```
+2. Upewnij się, że twoja Java JRE jest w wersji 24 lub twoje narzędzia JDK są w wersji 24, abyć mógł uruchomić aplikację.
 
 ### Używanie aplikacji:
 1. **Wybór lokalizacji**:
